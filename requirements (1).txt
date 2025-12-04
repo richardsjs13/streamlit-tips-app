@@ -1,9 +1,6 @@
 streamlit
-plotly
-os
 pandas
-plotly.express
-
+plotly
 
 
 
